@@ -1,0 +1,23 @@
+body {
+  background:url(../image/homePrincipal.jpg);
+
+background-size: 100% 100%;
+background-attachment: fixed;
+
+}
+button#playpausebtn{
+  background:url(../image/pause.png);
+  margin-left: auto;
+  width: 60px;
+  height: 60px;
+  cursor:pointer;
+
+}
+button#mutebtn{
+
+  background:url(../image/volu.jpg);
+  border: none;
+  width: 60px;
+  height: 60px;
+  cursor:pointer;
+}
